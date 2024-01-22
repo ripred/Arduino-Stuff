@@ -1,6 +1,6 @@
 ### Arduino Libraries
-| Library        | Description                                          |
-|:---------------|:-----------------------------------------------------|
+| **Library**        | **Description**                                          |
+|---------------:|:-----------------------------------------------------|
 | [Smooth](https://guthub.com/ripred/Smooth) | Keep smooth running averages without using arrays! Uses exponential moving averages and only 8-bytes no matter how many samples! No looping! No Arrays! Constant Compute Time! The sample size is adjustable at runtime. The average is available and accurate even before N samples have been received. Now with Callbacks! |
 | [CPUVolt](https://guthub.com/ripred/CPUVolt) | Library for Arduino and ATmega series processors to read the processor's Vcc voltage and percentage of capacity (for battery based projects) using *absolutely* no external components or connections! |
 | [CPUTemp](https://guthub.com/ripred/CPUTemp) | Arduino Library to calculate the processors internal temperature using nothing more than the ATmega processor itself! Absolutely no additional components or connections are needed! |
