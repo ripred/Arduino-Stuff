@@ -1,4 +1,3 @@
-# arduino
 ### Arduino Libraries
 | Library        | Description                                          |
 |:---------------|:-----------------------------------------------------|
