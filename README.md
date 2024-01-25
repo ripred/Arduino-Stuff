@@ -1,5 +1,5 @@
 ### Arduino Libraries
-| **Library**        | **Description**                                          |
+| **Library** | **Description** |
 |---------------:|:-----------------------------------------------------|
 | [Smooth](https://guthub.com/ripred/Smooth) | Keep smooth running averages without using arrays! Uses exponential moving averages and only 8-bytes no matter how many samples! No looping! No Arrays! Constant Compute Time! The sample size is adjustable at runtime. The average is available and accurate even before N samples have been received. Now with Callbacks! |
 | [CPUVolt](https://guthub.com/ripred/CPUVolt) | Library for Arduino and ATmega series processors to read the processor's Vcc voltage and percentage of capacity (for battery based projects) using *absolutely* no external components or connections! |
@@ -12,4 +12,16 @@
 | [fANSI](https://guthub.com/ripred/fANSI) | Arduino library that easily allows sending ANSI control sequences to a PC, Mac, or Linux machine. The PC, Mac, and Linux sides are even easier! Just copy from the serial port directly to the console! 😎 |
 | [MyKeywords](https://guthub.com/ripred/MyKeywords) | Define your own custom color-highlighted keywords for the Arduino IDE! |
 
-### Arduino Projects
+### Arduino-Related Projects
+| **Project** | **Description** |
+|---------------:|:-----------------------------------------------------|
+| [MicroChess](https://github.com/ripred/MicroChess) | MicroChess is an embedded chess engine designed to run with only 2K of RAM and 32K of program flash, complete with en passant capture, castling, and quiescent searches. Uses the minimax algorithm complete with alpha-beta pruning to reduce the search field size.|
+| [Wheeluino](https://github.com/ripred/Wheeluino) | A microcontroller operated Wheel-O! A simple desktop toy that makes an Arduino control a Wheel-O toy. 😎  |
+| [Euclid](https://github.com/ripred/Euclid) | Great 1 or 2 player puzzle game |
+| [Laser-Clock](https://github.com/ripred/Laser-Clock) |  A laser based clock displayed on a wall made from a toy motor, an IR beam break detector, a cheap laser pointer, and math  |
+| [Stroop Effect Game](https://github.com/ripred/StroopEffect) | A game based on the Stroop Effect and DFRobot's DF2301Q voice recognition module.  |
+| [Uno R4 Space Invaders](https://github.com/ripred/Uno_R4_Space_Invaders) | Quick and Dirty Space Invaders on the Uno R4 Wifi LED Matrix!  |
+| [EyesNBrows](https://github.com/ripred/EyesAndBrows) |  Animatronic Art Piece. Robotic Desktop Toy. Animatronic eyeballs and eyerows!  |
+| [Reverse Geocache Gift Box](https://github.com/ripred/Reverse_Geocache_Box) |  An electronic gift box, locked from the inside, that will only open at a special geo-location to reveal the gift inside!  |
+| [Mimic](https://github.com/ripred/Mimic) | "Mimic" Desktop robotic arm toy project |
+| [Emic2 Library](https://github.com/ripred/ESP32Emic2) |  ESP32 Library for Emic 2 (TTS) Text to Speech Synthesizer Module'  |
