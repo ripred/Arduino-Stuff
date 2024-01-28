@@ -11,7 +11,7 @@
 | [Profiler](https://guthub.com/ripred/Profiler) | Easily profile your Arduino functions to see how much time they take. The output can be disabled and enabled at runtime. Very lightweight. |
 | [fANSI](https://guthub.com/ripred/fANSI) | Arduino library that easily allows sending ANSI control sequences to a PC, Mac, or Linux machine. The PC, Mac, and Linux sides are even easier! Just copy from the serial port directly to the console! 😎 |
 | [MyKeywords](https://guthub.com/ripred/MyKeywords) | Define your own custom color-highlighted keywords for the Arduino IDE! |
-
+---
 ### Arduino-Related Projects
 | **Project** | **Description** |
 |---------------:|:-----------------------------------------------------|
