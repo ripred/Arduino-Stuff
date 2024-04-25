@@ -52,7 +52,7 @@
 |---------------:|:-----------------------------------------------------|
 | [MicroChess](https://github.com/ripred/MicroChess) | MicroChess is an embedded chess engine designed to run with only 2K of RAM and 32K of program flash, complete with en passant capture, castling, and quiescent searches. Uses the minimax algorithm complete with alpha-beta pruning to reduce the search field size.|
 | [Wheeluino](https://github.com/ripred/Wheeluino) | A microcontroller operated Wheel-O! A simple desktop toy that makes an Arduino control a Wheel-O toy. 😎  |
-| [Euclid](https://github.com/ripred/Euclid) | Great 1 or 2 player puzzle game |
+| [Euclid](https://github.com/ripred/Euclid) | Great 1 or 2 player puzzle game (In Processing using Java)|
 | [Laser-Clock](https://github.com/ripred/Laser-Clock) |  A laser based clock displayed on a wall made from a toy motor, an IR beam break detector, a cheap laser pointer, and math  |
 | [Stroop Effect Game](https://github.com/ripred/StroopEffect) | A game based on the Stroop Effect and DFRobot's DF2301Q voice recognition module.  |
 | [Uno R4 Space Invaders](https://github.com/ripred/Uno_R4_Space_Invaders) | Quick and Dirty Space Invaders on the Uno R4 Wifi LED Matrix!  |
