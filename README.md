@@ -44,6 +44,7 @@
 | [ButtonGestures](https://guthub.com/ripred/ButtonGestures) | Use a single push button for up to 6 different functions! Button gesture combinations of single, double, and triple-tap along with a long or short hold on the last press make it easy! Functions can also be pre-registered for callback for the gesture that you want. Even easier! |
 | [CompileTime](https://guthub.com/ripred/CompileTime) | Automatically set the hours, minutes and seconds in your project when compiling/uploading! |
 | [Profiler](https://guthub.com/ripred/Profiler) | Easily profile your Arduino functions to see how much time they take. The output can be disabled and enabled at runtime. Very lightweight. |
+| [CodeSizeProfiler](https://github.com/ripred/CodeSizeProfiler) | Easily identify your function izes and optimize for the smallest size! |
 | [fANSI](https://guthub.com/ripred/fANSI) | Arduino library that easily allows sending ANSI control sequences to a PC, Mac, or Linux machine. The PC, Mac, and Linux sides are even easier! Just copy from the serial port directly to the console! 😎 |
 | [MyKeywords](https://guthub.com/ripred/MyKeywords) | Define your own custom color-highlighted keywords for the Arduino IDE! |
 ---
