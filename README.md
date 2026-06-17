@@ -1,6 +1,6 @@
-[![License](https://flat.badgen.net/github/license/ripred/Arduino-Stuff)](https://github.com/ripred/Arduino-Stuff/blob/main/LICENSE)
-[![Stars](https://flat.badgen.net/github/stars/ripred/Arduino-Stuff)](https://github.com/ripred/Arduino-Stuff/stargazers)
-[![Forks](https://flat.badgen.net/github/forks/ripred/Arduino-Stuff)](https://github.com/ripred/Arduino-Stuff/network/members)
+[![License](https://img.shields.io/static/v1?style=flat&label=License&message=MIT&color=0969da&labelColor=24292f)](https://github.com/ripred/Arduino-Stuff/blob/main/LICENSE)
+[![Stars](https://img.shields.io/static/v1?style=flat&label=Stars&message=3&color=bf8700&labelColor=24292f)](https://github.com/ripred/Arduino-Stuff/stargazers)
+[![Forks](https://img.shields.io/static/v1?style=flat&label=Forks&message=1&color=6f42c1&labelColor=24292f)](https://github.com/ripred/Arduino-Stuff/network/members)
 
 <p align="center">
 <!--
@@ -13,19 +13,16 @@
 <p align="center">
 <!--
     <a href="https://github.com/ripred/Ardino-Stuff/stargazers">
-        <img src="https://img.shields.io/github/stars/ripred/Arduino-Stuff.svg?style=flat-square&colorB=4183c4"
              alt="stars">
     </a>
 -->
 <!--
     <a href="https://github.com/ripred/Arduino-Stuff/network">
-        <img src="https://img.shields.io/github/forks/ripred/Arduino-Stuff.svg?style=flat-square&colorB=4183c4"
              alt="forks">
     </a>
 -->
 <!--
     <a href="./licenses/LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square&colorB=4183c4"
              alt="license">
     </a>
 -->
