@@ -1,6 +1,6 @@
-[![License](https://img.shields.io/static/v1?style=flat&label=License&message=MIT&color=0969da&labelColor=24292f)](https://github.com/ripred/Arduino-Stuff/blob/main/LICENSE)
-[![Stars](https://img.shields.io/static/v1?style=flat&label=Stars&message=3&color=bf8700&labelColor=24292f)](https://github.com/ripred/Arduino-Stuff/stargazers)
-[![Forks](https://img.shields.io/static/v1?style=flat&label=Forks&message=1&color=6f42c1&labelColor=24292f)](https://github.com/ripred/Arduino-Stuff/network/members)
+[![License](https://flat.badgen.net/badge/License/MIT/0969da?labelColor=24292f)](https://github.com/ripred/Arduino-Stuff/blob/main/LICENSE)
+[![Stars](https://flat.badgen.net/badge/Stars/3/bf8700?labelColor=24292f)](https://github.com/ripred/Arduino-Stuff/stargazers)
+[![Forks](https://flat.badgen.net/badge/Forks/1/6f42c1?labelColor=24292f)](https://github.com/ripred/Arduino-Stuff/network/members)
 
 <p align="center">
 <!--
