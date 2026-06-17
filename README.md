@@ -1,3 +1,7 @@
+[![License](https://flat.badgen.net/github/license/ripred/Arduino-Stuff)](https://github.com/ripred/Arduino-Stuff/blob/main/LICENSE)
+[![Stars](https://flat.badgen.net/github/stars/ripred/Arduino-Stuff)](https://github.com/ripred/Arduino-Stuff/stargazers)
+[![Forks](https://flat.badgen.net/github/forks/ripred/Arduino-Stuff)](https://github.com/ripred/Arduino-Stuff/network/members)
+
 <p align="center">
 <!--
     <a href="https://www.cocos.com/">
